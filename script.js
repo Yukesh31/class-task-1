@@ -1,8 +1,8 @@
-let imageSrc=['https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Froyal-enfield&psig=AOvVaw1AWisyj_Q-5AkbRnCvgc6a&ust=1628847197861000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDR0_mWq_ICFQAAAAAdAAAAABAJ',
-'https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F783978247614732277%2F&psig=AOvVaw1AWisyj_Q-5AkbRnCvgc6a&ust=1628847197861000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDR0_mWq_ICFQAAAAAdAAAAABAP',
-'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpapertip.com%2Fwpic%2FTTTJih_royal-enfield-photos-download%2F&psig=AOvVaw1AWisyj_Q-5AkbRnCvgc6a&ust=1628847197861000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDR0_mWq_ICFQAAAAAdAAAAABAa',
-'https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.gettywallpapers.com%2Froyal-enfield-bullet-wallpapers%2F&psig=AOvVaw1AWisyj_Q-5AkbRnCvgc6a&ust=1628847197861000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDR0_mWq_ICFQAAAAAdAAAAABAf',
-'https://www.google.com/url?sa=i&url=https%3A%2F%2Fpinposters.com%2Fautomobiles-wallpaper%2Froyal-enfield-hd-wallpaper%2F&psig=AOvVaw1AWisyj_Q-5AkbRnCvgc6a&ust=1628847197861000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDR0_mWq_ICFQAAAAAdAAAAABAx']
+let imageSrc=['https://images.unsplash.com/photo-1560847809-8a818fb8045f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cm95YWwlMjBlbmZpZWxkfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+'https://images.unsplash.com/photo-1611429532458-f8bf8f6121fe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cm95YWwlMjBlbmZpZWxkfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+'https://images.unsplash.com/photo-1601574013379-a98bfb813376?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cm95YWwlMjBlbmZpZWxkfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+'https://images.unsplash.com/photo-1614152412509-7a5afc18c75b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJveWFsJTIwZW5maWVsZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+'https://images.unsplash.com/photo-1621957670209-200b20d5776e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHJveWFsJTIwZW5maWVsZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60']
 let i=0;
 let imageTurn
 turn=()=>
